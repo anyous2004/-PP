@@ -23,3 +23,4 @@ printer(input("Имя: "), input("Группа: "))
 
 
 
+
